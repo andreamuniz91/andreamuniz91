@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Andrea Muñiz Salvadores
 ## 👩‍💻 Sobre mí
-Soy estudiante en 4Geeks Academy, donde comencé mi formación en desarrollo el 14 de mayo de 2024, participando en el bootcamp de Full Stack Development. Me apasiona el aprendizaje continuo y la creación de soluciones tecnológicas innovadoras.
+Soy desarrollara full-stack, realicé el bootcamp de Full Stack Development en 4Geeks Academy. Me apasiona el aprendizaje continuo y la creación de soluciones tecnológicas innovadoras.
 
 ## 🚀 Habilidades y Tecnologías
 A lo largo de mi formación he adquirido conocimientos en los siguientes lenguajes de programación y tecnologías:
